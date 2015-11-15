@@ -1,0 +1,16 @@
+# CoIDE
+*.coproj
+*.cogui
+project.pbxproj
+history.xml
+dependencies.xml
+
+# Compiled source
+*.o
+*.elf
+*.hex
+*.map
+*.bin
+
+# Misc
+*.zip
